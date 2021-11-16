@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### Sobre mim
 <div style="display: inline_block" >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="" />
+<img align="right" width="250" height="250" style="border-radius:30px;" src="octojon.png" />
 
 <p> - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou no fim do segundo 2° semestre. </p>
 <p> - 💻 Tecnologias de Interesse: NodeJS, HTML, CSS, JavaScript, React, React Native. 
