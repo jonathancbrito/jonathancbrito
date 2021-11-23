@@ -38,11 +38,9 @@ Here are some ideas to get you started:
 <div style="display: inline_block" >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="octojon.png" />
 
-<p> - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou no fim do segundo 2° semestre. </p>
-<p> - 💻 Tecnologias de Interesse: NodeJS, HTML, CSS, JavaScript, React, React Native. 
-<p> - 🎯 Campos de interesse: Os campos de interesse específicos incluem desenvolvimento web, mobile e Blockchain. </p>
-<p> - 🙌 Busco utilizar meu conhecimento adquirido para trazer valor à vida das pessoas por meio da cooperação e do amor ao próximo. </p>
-<p> - ⏳ Quando não estou estudando, estou provavelmente escutando algumas músicas, jogando alguns games ou lendo algum livro. </p>
+<p> - 👨‍🎓 Estudante de Engenharia de Software </p>
+<p> - 💻 Tecnologias de Interesse: NodeJS, HTML, CSS, JavaScript, React, React Native. </p>
+<p> - 🎯 Campos de interesse: Os campos de interesse específicos incluem desenvolvimento web e mobile. </p>
 
   
 </div>
