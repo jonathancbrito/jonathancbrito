@@ -1,3 +1,5 @@
+## <h2 align="center">Olá, eu sou o Jonathan! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 </p>
@@ -17,7 +19,7 @@
   </a>
 </p>
 
-## Olá, eu sou o Jonathan! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+##
 
 ### Sobre mim
 <div style="display: inline_block" >
@@ -26,7 +28,6 @@
 <p> - 👨‍🎓 Estudante de Engenharia de Software </p>
 <p> - 💻 Tecnologias de Interesse: NodeJS, HTML, CSS, JavaScript, React, React Native. </p>
 <p> - 🎯 Campos de interesse: Os campos de interesse específicos incluem desenvolvimento web e mobile. </p>
-
   
 </div>
 
