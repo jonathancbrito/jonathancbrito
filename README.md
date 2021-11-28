@@ -31,7 +31,7 @@
   
 </div>
 
-## Conhecimentos nas seguintes tecnologias: :man_technologist:
+## :man_technologist: Conhecimentos nas seguintes tecnologias: 
 
 <div align="center">
     <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
