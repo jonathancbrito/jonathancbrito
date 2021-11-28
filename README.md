@@ -45,7 +45,7 @@
     
 </div>
 
-## Contato :phone:
+## :phone: Contato 
 
 <p align="center">
     <a href="https://www.instagram.com/jonathancbrito/">
