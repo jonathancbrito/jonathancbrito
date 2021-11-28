@@ -25,24 +25,27 @@
 <div style="display: inline_block" >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="octojon.png" />
 
-<p> - 👨‍🎓 Estudante de Engenharia de Software </p>
-<p> - 💻 Tecnologias de Interesse: NodeJS, HTML, CSS, JavaScript, React, React Native. </p>
+<p> - 👨‍🎓 22 anos, Estudante de Engenharia de Software, Atualmente estou aberto para oportunidades de estágio. </p>
+<p> - 💻 Tecnologias de Interesse: JavaScript, NodeJS, HTML, CSS, , React, React Native. </p>
 <p> - 🎯 Campos de interesse: Os campos de interesse específicos incluem desenvolvimento web e mobile. </p>
   
 </div>
 
-## Minhas skills :wrench:
+## Conhecimentos nas seguintes tecnologias: :man_technologist:
 
 <div align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
 </div>
 
-## Meus contatos :phone:
+## Contato :phone:
 
 <p align="center">
     <a href="https://www.instagram.com/jonathancbrito/">
