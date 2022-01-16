@@ -25,7 +25,7 @@
 <div style="display: inline_block" >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="octojon.png" />
 
-<p> - 👨‍🎓 22 anos, Estudante de Engenharia de Software, Atualmente estou aberto para oportunidades de estágio. </p>
+<p> - 👨‍🎓 22 anos, Estudante de Engenharia de Software. </p>
 <p> - 💻 Tecnologias de Interesse: JavaScript, NodeJS, HTML, CSS, , React, React Native. </p>
 <p> - 🎯 Campos de interesse: Os campos de interesse específicos incluem desenvolvimento web e mobile. </p>
   
