@@ -1,4 +1,4 @@
-## <h2 align="center">Olá, eu sou o Jonathan! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## <h2 align="center">Olá, eu sou o Jonathan! 👐 </h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
